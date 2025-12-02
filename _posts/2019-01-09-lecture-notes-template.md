@@ -6,7 +6,7 @@ date: 2019-01-09
 
 lecturers:
   - name: Ben Lengerich
-    url: "https://lengerichlab.github.io/"
+    url: "https://adaptinfer.org"
 
 authors:
   - name: Parv Singhal # author's full name
